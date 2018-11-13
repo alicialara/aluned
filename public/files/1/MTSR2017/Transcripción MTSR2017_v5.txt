@@ -1,0 +1,107 @@
+Diapo 1:
+
+Good afternoon, my name is Alicia and I am junior researcher at the National University of Distance Education (UNED), in Spain. The title of this presentation is "Enrichment of accessible LD and visualization for Humanities: MPOC model and prototype",
+
+Diapo 2:
+
+I'm going to present our work framed in the Musacces project, a project that pretends to bring the museum closer to people with disabilities.  The MUSACCES Consortium was born with the purpose of bringing the artistic and cultural heritage of the Spanish Prado Museum to blind, deaf and those who, because they are incarcerated in penitentiary institutions, cannot go directly to the Collection.
+
+Diapo 3:
+
+In this paper, we have adressed two objectives:
+
+First, the management of available data from different resources
+
+And second, the use of a semantic graph that can assist the experts. In the Musacces project, these experts are humanists, psycologists, and so on.
+
+Diapo 4:
+
+But, how can we combine all the information with the experts’ knowledge?  We present a new narrative model integrating the semantic graph and all the available information about it, including that external knowledge.  The main idea for the first prototype is to create a system where the experts write their own narratives using and improving the semantic graph. 
+
+Thus, the semantic graph starts with the crawled data from different resources (BabelNet, DBpedia, Spanish Prado Museum and others) and creates new concepts and relationships with the narratives. It brings about the opportunity to use pre-existing data and create different tagged narratives, that can be reused in different ways to provoke a feeling of expectation in visitors.
+
+Diapo 5:
+
+Our work is based on two existing projects: StorySpace and StoryScope.
+
+StorySpace:
+
+- It has a structure of narration with hyperlinks, and it does not use standards, metadata or narrative elements
+- And it is created for museum workers who manually create narratives 
+- It is available for IOS, so it is not multiplatform
+
+Diapo 6:
+
+On the other hand, StoryScope:
+
+Is a Web-based information system that includes model, methodology and collections of artworks.
+
+In this case, the narration is manually written on the artwork and the narrative elements are separated from the narrative, but associated with the artwork. In Storyscope, there are no relationships between the narrative elements.
+
+Diapo 7:
+
+Now, I'm going to present our narrative model. It's based on the Narratology concept coined by Todorov in 1969 in his book "Grammaire du Decameron".  It refers to the study of narratives and their structure, as well as the way in which the structure has an effect in our perception of narratives.
+
+Narratology is a branch of Structuralism that studies the nature of history by parts, and Semiology, which analyses communicative signs between societies and their behaviour. Thus, not only do we study the structure of the narratives, but also the way in which the structure has an effect in our perception of narratives.
+
+Diapo 8: 
+
+The model is divided in four abstraction layers, organized in a hierarchy order. The base consists of four narrative elements: Characters, events, references and the artworks of the museum. The next step is to select, as a bag of elements, some of them, to get a plot. Once we add the form (textual, sign language, audio, ...), we have the narrative and when the narrative is finished, it can be published to get an itinerary.
+
+
+Diapo intermedia:
+
+
+Where does this data come from? How can we extract and represent them?
+
+
+Diapo 9:
+
+
+ The next step in this work is to describe the way in which we represent the metadata. The Spanish Prado Museum has integrated the CIDOC-CRM standard: (and I quote) “The CIDOC Conceptual Reference Model (CRM) provides definitions and a formal structure for describing the implicit and explicit concepts and relationships used in cultural heritage documentation.” (End of quote). All the documentation is available in the URL.
+
+The Spanish Prado museum also integrates the FRBR standard to model bibliographic references.
+
+
+
+Diapo 10: 
+
+As we can see, the Spanish Prado Museum uses the standards to represent all the information about the artworks and artists. Each artwork is framed in "E22_Man_Made_Object", and its metadata are defined and organized by this way. We can see, for example, how we can store all the multimedia resources.
+
+Diapo 11:
+[Todo lo visto anteriormente se engloba en MPOC1...]
+
+ MPOC1 is our first web-based prototype. It uses all the information available and integrates the standards in it. Now, the system allows to:
+
+- Visualize and edit data of works and characters
+
+- and to create new metadata
+
+ Diapo 12:
+
+Here you can see an example that shows how the information is stored in our system. We use a relational database, MySQL, but in the future we will use Solr to store and index the information.
+
+Diapo 13:
+
+Now, I am going to talk about several lines of future work.
+
+We show, with this example, how the graph is improved by the experts. We have the previous information and they create new relations. For example, the external reference to a video.
+
+Diapo 14:
+
+Now, we are working in order to improve the model and the system by: 
+
+Adding gamification elements (that allow to model different types of games)
+Adding interactive elements that increments the value to the itinerary (modeling of visual, olfactory objects, etc.)
+and Integrating a Human-Computer Interaction (HCI) model to create a discourse-based system
+
+
+Diapo 15:
+
+We are working on MPOC2, the second prototype that starts from MPOC1. This new prototype integrates all the neccesary functionality to let the experts create the tagged narratives. It is possible to add narrative elements to the text, creating them in the system.
+
+In this example we can see a narrative where there is a character, an artwork and an external reference. All of these elements have been created previously in the system.
+
+Diapo 16:
+
+That's all. Thank you very much for your attention. Any suggestions or questions will be more than welcome.

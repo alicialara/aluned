@@ -1,0 +1,246 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"style\tAttr"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"A",
+				"Apuntes"
+			],
+			[
+				"des",
+				"description"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Laravel ",
+				"Laravel Docs: Artisan"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/opt/lampp/htdocs/lsiuned",
+		"/opt/lampp/htdocs/lsiuned/resources",
+		"/opt/lampp/htdocs/lsiuned/resources/views",
+		"/opt/lampp/htdocs/lsiuned/resources/views/apuntes",
+		"/opt/lampp/htdocs/lsiuned/resources/views/bookmarks",
+		"/opt/lampp/htdocs/lsiuned/resources/views/glosario",
+		"/opt/lampp/htdocs/lsiuned/resources/views/layouts"
+	],
+	"file_history":
+	[
+		"/opt/lampp/htdocs/lsiuned/resources/views/glosario/show.blade.php",
+		"/opt/lampp/htdocs/lsiuned/resources/views/layouts/navigation.blade.php",
+		"/opt/lampp/htdocs/lsiuned/resources/views/bookmarks/tablaindex.blade.php",
+		"/opt/lampp/htdocs/lsiuned/resources/views/apuntes/tablaindex.blade.php",
+		"/opt/lampp/htdocs/lsiuned/resources/views/glosario/tablaindex.blade.php",
+		"/opt/lampp/htdocs/lsiuned/routes/web.php",
+		"/opt/lampp/htdocs/lsiuned/resources/views/layouts/app.blade.php",
+		"/opt/lampp/htdocs/lsiuned/resources/views/layouts/footer.blade.php",
+		"/opt/lampp/htdocs/lsiuned/resources/views/layouts/master.blade.php",
+		"/opt/lampp/htdocs/lsiuned/app/Http/Controllers/MyUserPermissions.php",
+		"/opt/lampp/htdocs/lsiuned/resources/views/glosario/create.blade.php",
+		"/opt/lampp/htdocs/lsiuned/app/Http/Controllers/GlosarioController.php",
+		"/opt/lampp/htdocs/lsiuned/resources/views/apuntes/create.blade.php",
+		"/opt/lampp/htdocs/lsiuned/resources/views/glosario/index.blade.php",
+		"/opt/lampp/htdocs/lsiuned/resources/views/apuntes/index.blade.php",
+		"/opt/lampp/htdocs/lsiuned/resources/views/apuntes/edit.blade.php",
+		"/opt/lampp/htdocs/lsiuned/storage/logs/laravel.log",
+		"/opt/lampp/htdocs/lsiuned/app/Http/Controllers/ApuntesController.php",
+		"/opt/lampp/htdocs/lsiuned/app/Glosario.php",
+		"/opt/lampp/htdocs/lsiuned/resources/views/bookmarks/create.blade.php",
+		"/opt/lampp/htdocs/lsiuned/app/Http/Controllers/BookmarksController.php",
+		"/opt/lampp/htdocs/lsiuned/app/Bookmarks.php",
+		"/opt/lampp/htdocs/lsiuned/app/Http/Controllers/TareasController.php",
+		"/opt/lampp/htdocs/lsiuned/resources/views/bookmarks/show.blade.php",
+		"/opt/lampp/htdocs/lsiuned/resources/views/bookmarks/index.blade.php",
+		"/opt/lampp/htdocs/lsiuned/resources/views/tareas/tablaindex.blade.php",
+		"/opt/lampp/htdocs/lsiuned/app/Tareas.php",
+		"/home/alicia/.config/sublime-text-3/Packages/Laravel-Cheat-Sheet/snippets/Eloquent.sublime-settings",
+		"/home/alicia/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/opt/lampp/htdocs/lsiuned/config/app.php",
+		"/opt/lampp/htdocs/lsiuned/.env",
+		"/home/alicia/OneDrive/Doctorado/Cursos/Deep Learning - Eneko Aguirre/Día 1/Apuntes - Mañana.txt"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"*"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"log",
+			"title",
+			"tarea",
+			"lsiuned"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"bookmark"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/opt/lampp/htdocs/lsiuned"
+		}
+	],
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 40.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 275.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
